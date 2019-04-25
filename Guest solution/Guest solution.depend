@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1556148041 source:f:\code\guest solution\guest.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	"Guest.h"
+
+1556148139 f:\code\guest solution\guest.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+
+1556147796 source:f:\code\guest solution\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	"Guest.h"
+
